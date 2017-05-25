@@ -1,0 +1,25 @@
+{
+  "name": "skype_rr_bot",
+  "version": "0.1.0",
+  "description": "Skype bot for room reservation",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appanp/roomresv_bot.git"
+  },
+  "keywords": [
+    "bot",
+    "room",
+    "reservation",
+    "skype"
+  ],
+  "author": "Appan.P",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appanp/roomresv_bot/issues"
+  },
+  "homepage": "https://github.com/appanp/roomresv_bot#readme"
+}
